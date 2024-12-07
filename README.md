@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error: the "Undefined offset" error that can occur in foreach loops when accessing array elements by index. The error arises when trying to access an element beyond the array's bounds.  The solution shows a way to prevent this error using isset() to check the existence of the next index before trying to access it.
